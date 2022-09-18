@@ -1,0 +1,12 @@
+h500@H500:~/Desktop$ gcc myFemtoShell.c -o myFemtoShell.o
+h500@H500:~/Desktop$ ./myFemtoShell.o 
+enter your command>Hello my Shell
+your command>Hello my Shell
+enter your command>What can you do?
+your command>What can you do?
+enter your command>you are super
+your command>you are super
+enter your command>exit
+
+Good Bye :)
+h500@H500:~/Desktop$ 
